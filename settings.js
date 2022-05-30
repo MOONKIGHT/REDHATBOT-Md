@@ -21,18 +21,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['62895369318181']
-global.premium = ['62895369318181']
-global.ownernomer = '62895369318181'
-global.ownername = 'Koleksibot X You🔥'
-global.botname = 'REDHATBOT CLOUD 🤖'
-global.footer = 'By rootsec.xyz'
-global.ig = 'https://github.com/koleksibot'
-global.region = 'Aku Iki Wong Jowo Soko Indonesia'
-global.sc = 'https://github.com/koleksibot'
-global.myweb = 'https://wa.me/62895369318181'
-global.packname = 'Di Buat Untuk Mu'
-global.author = 'By Koleksibot'
+global.owner = ['94771323434']
+global.premium = ['94771323433']
+global.ownernomer = '94771323434'
+global.ownername = 'https://s.id/imash🔥'
+global.botname = 'https://s.id/imash'
+global.footer = 'https://s.id/imash'
+global.ig = 'https://s.id/imash'
+global.region = 'https://s.id/imash'
+global.sc = 'https://s.id/imash'
+global.myweb = 'https://s.id/imash'
+global.packname = 'Di https://s.id/imash'
+global.author = 'By https://s.id/imash'
 global.sessionName = 'asif615'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
